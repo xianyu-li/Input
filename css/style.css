@@ -1,0 +1,14 @@
+/* 
+    GLOBAL 
+    TYPOGRAPHY
+    NAVIGATION
+    font-family: 'Karla', sans-serif;
+    font-family: 'Space Mono', monospace;
+ */
+
+html{
+    background: white;
+    font-family: 'Karla', sans-serif;
+    min-height: 100%
+}
+
